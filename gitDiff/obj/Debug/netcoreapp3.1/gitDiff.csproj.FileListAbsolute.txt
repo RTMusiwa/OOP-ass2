@@ -1,0 +1,11 @@
+C:\Users\ryant\Documents\OOPaSS2\Assessment 2 Files\gitDiff\gitDiff\bin\Debug\netcoreapp3.1\gitDiff.exe
+C:\Users\ryant\Documents\OOPaSS2\Assessment 2 Files\gitDiff\gitDiff\bin\Debug\netcoreapp3.1\gitDiff.deps.json
+C:\Users\ryant\Documents\OOPaSS2\Assessment 2 Files\gitDiff\gitDiff\bin\Debug\netcoreapp3.1\gitDiff.runtimeconfig.json
+C:\Users\ryant\Documents\OOPaSS2\Assessment 2 Files\gitDiff\gitDiff\bin\Debug\netcoreapp3.1\gitDiff.runtimeconfig.dev.json
+C:\Users\ryant\Documents\OOPaSS2\Assessment 2 Files\gitDiff\gitDiff\bin\Debug\netcoreapp3.1\gitDiff.dll
+C:\Users\ryant\Documents\OOPaSS2\Assessment 2 Files\gitDiff\gitDiff\bin\Debug\netcoreapp3.1\gitDiff.pdb
+C:\Users\ryant\Documents\OOPaSS2\Assessment 2 Files\gitDiff\gitDiff\obj\Debug\netcoreapp3.1\gitDiff.csprojAssemblyReference.cache
+C:\Users\ryant\Documents\OOPaSS2\Assessment 2 Files\gitDiff\gitDiff\obj\Debug\netcoreapp3.1\gitDiff.AssemblyInfoInputs.cache
+C:\Users\ryant\Documents\OOPaSS2\Assessment 2 Files\gitDiff\gitDiff\obj\Debug\netcoreapp3.1\gitDiff.AssemblyInfo.cs
+C:\Users\ryant\Documents\OOPaSS2\Assessment 2 Files\gitDiff\gitDiff\obj\Debug\netcoreapp3.1\gitDiff.dll
+C:\Users\ryant\Documents\OOPaSS2\Assessment 2 Files\gitDiff\gitDiff\obj\Debug\netcoreapp3.1\gitDiff.pdb
